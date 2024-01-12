@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "lib": ["esnext", "deno.window"],
+      "noFallthroughCasesInSwitch": true,
+      "noImplicitReturns": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "strict": true,
+      "allowUnreachableCode": false,
+      "allowUnusedLabels": false
+    }
+}
